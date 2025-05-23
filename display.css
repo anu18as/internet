@@ -1,0 +1,41 @@
+ #flex{
+    display: flex;
+    height: auto;
+    width: 100%;
+    background-color: blue;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+ #flex>div{
+    margin: 5px;
+    height: 45px;
+    flex-basis: 100%;
+    width: 45px;
+    background-color: white;
+} 
+
+
+
+div{
+    display: inline;
+}
+
+span{
+    display: block;
+    border: 1px solid red;
+}
+h1{
+    display: inline-block;
+    
+}
+
+h1{
+    display:float;
+    float: right;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}

@@ -1,0 +1,21 @@
+#linear{
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient(45deg,violet,indigo,blue,green,yellow,orange,red);
+}
+
+#radial{
+    height: 100vh;
+    width: 100vw;
+    background-image: radial-gradient(circle,violet,indigo,blue,green,yellow,orange,red);
+}
+
+#conic{
+    height: 100vh;
+    width: 100vw;
+    background-image: conic-gradient(violet,indigo,blue,green,yellow,orange,red);
+}
+
+
+
+

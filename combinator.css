@@ -1,0 +1,13 @@
+/* div p{
+    color: red;
+} */
+/* 
+ div>p{
+    color: blue;
+} */
+ /* div+p{
+    color: green;
+} */
+div~p{
+    color: blueviolet;
+} 
